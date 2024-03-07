@@ -10,4 +10,4 @@ Usage:
 4. A warning will show how many attachments with signatures will remain unreplaced.
 5. Click for each time one signed e-mail with attachments, because it will ask you for permission to excute the replacement.
 
-You are welcome to use the tool and give me feedback about it. I am glad if you will fork this project and improve the tool upon mine. I will apply MIT license to this project.
+You are welcome to use the tool and give me feedback about it. I am glad if you will fork this project and improve the tool upon mine. No commercial used is allowed. Other public demonstration requires my permission.
